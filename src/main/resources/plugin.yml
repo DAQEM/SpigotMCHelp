@@ -1,0 +1,7 @@
+name: Spigothelp
+version: @version@
+main: me.daqem.spigothelp.Spigothelp
+api-version: 1.16
+authors: [DAQEM]
+description: Plugin to help in Spigot Disciussions
+website: https://daqem.com

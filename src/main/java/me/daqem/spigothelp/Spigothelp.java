@@ -1,0 +1,17 @@
+package me.daqem.spigothelp;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public final class Spigothelp extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        // Plugin startup logic
+
+    }
+
+    @Override
+    public void onDisable() {
+        // Plugin shutdown logic
+    }
+}
